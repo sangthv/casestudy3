@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/banHang/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/banHang" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cozastore-master/product-detail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cozastore-master" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/cozastore-master/shoping-cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/cozastore-master" />
+      </map>
+    </option>
+  </component>
+</project>
